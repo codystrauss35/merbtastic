@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Optimize function calls to method calls (#8507)
