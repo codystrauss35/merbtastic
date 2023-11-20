@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Update format.yml to pull_request_target (#7460)
